@@ -6,6 +6,10 @@ This is a simple movie recommendation system built using Python and Streamlit.
 
 The Movie Recommendation System recommends similar movies based on user input. It uses a collaborative filtering technique to find similarities between movies and provides recommendations accordingly.
 
+## Interface
+![Screenshot (114)](https://github.com/Khaire7031/Movie-Recommendation-System/assets/121940469/8a7a7a45-b491-47a1-a59f-d6e866951214)
+![Screenshot (115)](https://github.com/Khaire7031/Movie-Recommendation-System/assets/121940469/062fe38e-2854-4182-aaf8-1fcea08e9106)
+
 ## Features
 
 - User-friendly interface
