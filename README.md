@@ -31,7 +31,7 @@ The movie dataset used in this project is sourced from [TMDb 5000 Movie Dataset]
 
 ## Credits
 
-- This project was developed by [Your Name].
+- This project was developed by [Pranav](https://www.linkedin.com/in/pranav-khaire-machine-learning-developer/).
 - The dataset used is from [TMDb](https://www.themoviedb.org/).
 
 ## License
